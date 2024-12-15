@@ -1,0 +1,16 @@
+DEBUT 
+
+NUM : A = 4 ; 
+TEXT : Fouad ;
+NUM : Ta[-30];
+
+FIXE REAL : B = 5 ;
+
+EXECUTION {
+
+
+
+
+}
+
+FIN
